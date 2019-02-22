@@ -1,4 +1,4 @@
-# Pasos para clonar repositorio apk
+# Pasos para clonar repositorio
   - Desde la terminal ingresar a la ubicación en la cual queremos clonar el proyecto
     ```sh
     cd C:\Users\XXXX\Documents\miproyecto
